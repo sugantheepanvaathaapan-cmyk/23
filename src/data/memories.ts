@@ -26,7 +26,7 @@ It just felt natural.`,
   {
     src: "/05-middle.JPEG",
     title: "Again that smile",
-    text: `AGAIN THIS PICTURE I LOVE YOUR SMILE. I dont know what but something about your smile does something positive inside me, it just gives me a sudden boost you know. And you look stunning in that hollister top btw kekekek those boobies too.`,
+    text: `AGAIN THIS PICTURE I LOVE YOUR SMILE. I dont know what but something about your smile does something positive inside me, it just gives me a sudden boost you know. And you look stunning in that top btw kekekek those boobies too.`,
   },
   {
     src: "/06-recent.JPEG",
