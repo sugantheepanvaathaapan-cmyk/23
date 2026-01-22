@@ -215,6 +215,7 @@ export default function Home() {
             I’d choose you again.
           </div>
           <div>And again. And again. Forever.</div>
+          <div>After my ammamma died I've only felt a real love from you, you are the only one I can see as my ammamma.</div>
         </motion.div>
       </section>
 
